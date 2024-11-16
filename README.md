@@ -14,7 +14,6 @@ This repository contains a series of test projects designed to practice and demo
 - **Idea Center App**: This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas.
 - **Foody App**: The "Foody" app project involves automating tests for a food review service API. 
 - **Story Spoil App**: The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories.
-- **Revue Crafters App**: The "Revue Crafters" is an interactive web application for sharing and managing revues.
 
 ## Test Case Coverage
 - User authentication and authorization
