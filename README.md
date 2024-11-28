@@ -38,9 +38,6 @@ This repository contains a series of test projects designed to practice and demo
    - Use the stored JWT token to configure the RestClient's Authenticator.
    - This setup ensures that all subsequent requests made by the RestClient are authenticated.
 
-### Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ### License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 ### Contact
