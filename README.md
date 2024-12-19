@@ -7,25 +7,25 @@
 
 ### This is a test project for **Back-End Test Automation** March 2024 Course @ SoftUni
 ---
-## Project Description
+## 📜 Project Description
 This repository contains a series of test projects designed to practice and demonstrate skills in back-end test automation. The tests are written using RestSharp for API interactions and NUnit for testing framework.
 
-## Projects Included
+## 📂 Projects Included
 - **Idea Center App**: This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas.
 - **Foody App**: The "Foody" app project involves automating tests for a food review service API. 
 - **Story Spoil App**: The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories.
 
-## Test Case Coverage
+## ✅ Test Case Coverage
 - User authentication and authorization
 - User data submission and retrieval
 - User data edition and deletion
 - Error handling and validation
   
-## Technologies Used
+## 💻 Technologies Used
 - **RestSharp**: A simple REST and HTTP API client for .NET.
 - **NUnit**: A unit-testing framework for all .NET languages.
 
-## Project Structure
+## 🏗️ Project Structure
 - **Tests**: Contains the test cases for each system.
 - **Models**: Contains the models representing the API responses and requests.
 
