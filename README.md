@@ -29,7 +29,7 @@ This repository contains a series of test projects designed to practice and demo
 - **Tests**: Contains the test cases for each system.
 - **Models**: Contains the models representing the API responses and requests.
 
-## RestClient Initialization and Configuration
+## 🛠️ RestClient Initialization and Configuration
 1. **Initialize a RestClient with the base URL of the API.**
 2. **Authenticate with your credentials, and store the received JWT token.**
    - Authenticate by sending a request with your credentials.
@@ -38,9 +38,9 @@ This repository contains a series of test projects designed to practice and demo
    - Use the stored JWT token to configure the RestClient's Authenticator.
    - This setup ensures that all subsequent requests made by the RestClient are authenticated.
 
-### License
+### 📄 License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
-### Contact
+### 🤝 Contact
 For any questions or suggestions, please open an issue in the repository.
 
 ---
